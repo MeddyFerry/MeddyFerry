@@ -36,6 +36,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Nest-js](https://img.shields.io/badge/nestjs-%23e0234e.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
+
 
 ### 🗄 Databases
 
